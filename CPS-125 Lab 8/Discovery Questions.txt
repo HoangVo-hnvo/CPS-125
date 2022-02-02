@@ -1,0 +1,3 @@
+1. We need to send an integer along with the array when given a function because the number represents the 
+arrays capacity; there is a method which we can call on the array itself in order to get it's length but that is too complex for some.
+2. We need to end with a '\0' value in order to declare the end of the string.

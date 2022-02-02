@@ -1,0 +1,4 @@
+1. Coming from a Java background, for loops can do the counting for you since you can have an initial declaration of the starting number; 
+if we start a for loop at 0 and set it to our limit, we will know that it will execute the number the limit amount of times. 
+
+2. Data in arrays are assigned numbers within the array; it acts as an identifier making it easier to access

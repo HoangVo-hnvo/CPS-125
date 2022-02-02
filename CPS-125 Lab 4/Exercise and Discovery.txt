@@ -1,0 +1,9 @@
+//Excercise 5
+A.1 && (30 %10 >=0) && (30%10 <=3) = True
+B.1 && 30 %10 >=0 && 30%10 <=3 = True ,the result still remains the same because moduluo has higher priority.
+C.1 && 30%10 >=0 && 30%10 !=3 = True
+D.!(0 || (30 %10 <0) || (30%10 >3)) =True
+
+//Discovery Questions
+The '=' symbol is an assignment operator while '==' is a comparison operator
+if(x=0) is always false cause 0 is 'false' in machone language.
