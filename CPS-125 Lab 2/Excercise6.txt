@@ -1,0 +1,9 @@
+1.char is a data type while Char is a pointer
+2.The program will print out 0 because the action of dividing 3/4 will result in a doule, while the placeholder is looking for an integer.
+3.Floats and integers can still be interpreted exactly the same because they are numbers
+4.No, this will result in a compilation error
+5.They are practically the same
+6.Dividing by 0 is a sin and it's considered a logical error by the compiler
+7.No, the modulus operator can only be used for integers, if you want to mod doubles/flaots you should use the function fmod(double,double)
+8.No there is no difference, you can run your program with either of them and it will still function.
+9.

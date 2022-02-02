@@ -1,0 +1,27 @@
+//This is the unedited version
+#include <stdio.h>
+
+inx main (void)
+{
+	int a = 3; b = 4, e;
+	Double f = 4, c, d;
+
+	d = a + b;
+	c = a / (f - b);
+	printf (The value of d is %d"\n, d)
+	return (0);
+}
+
+//This is the edited version
+#include <stdio.h>
+
+int main (void) //mispelled "int"
+{
+	int a = 3, b = 4; //semicolon instead of comma, no variable e
+	double f = 4, c, d;
+
+	d = a + b;
+	c = a / (f - b); //can't divide by 0
+	printf (The value of d is %lf"\n, d); //will print 7 as a long float/ double
+	return (0);
+}
